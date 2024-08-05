@@ -1,1 +1,24 @@
-/*  your css code here. If applicable */
+body{
+	font-family:arial,sans-serif;
+}
+.container{
+	margin:0 auto;
+	padding:20px;
+	background-color:#f0f0f0;
+}
+.imageContainer{
+	text-align:center;
+	margin-bottom:20px;
+}
+table{
+	width:100%;
+	border-collapse:collapse;
+}
+td{
+	border:1px solid #ddd;
+	padding:10px;
+}
+td img{
+	width:100%;
+	height:auto;
+}
